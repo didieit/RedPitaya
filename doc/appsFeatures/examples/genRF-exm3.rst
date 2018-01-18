@@ -62,7 +62,12 @@ and press run.
 
     fclose(tcpipObj);
     view rawgenerate_burst_trigger_external.m
-    Code - C
+   
+    
+Code - C
+*************
+
+.. code-block:: C
 
     /* Red Pitaya external trigger pulse generation Example */
 
